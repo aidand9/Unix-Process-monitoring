@@ -1,6 +1,6 @@
 # Unix-process-monitoring-tool
 
-A command line tool that reports information about running processes including inodes, file descriptors, and more. To compile this program, open a terminal in the directory with all the files in it and run "make".
+A command line tool that reports information about running processes including inodes, file descriptors, and more. To compile this program, open a terminal in the directory with all the files in it and run "make", then run ./main.out
 
 Here are the command line arguments it accepts:
 
