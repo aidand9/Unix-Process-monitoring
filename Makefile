@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Werror -Wall -std=c99
 
-assignment2: specific_process.o process_handling.o main.o
+main: specific_process.o process_handling.o main.o
 	$(CC) $(CFLAGS) -o assignment2 specific_process.o process_handling.o main.o
 
 main.o: main.c
