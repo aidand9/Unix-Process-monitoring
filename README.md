@@ -17,5 +17,5 @@ For this it will list the PID and number of assigned FDs, e.g. PID (FD) and comb
 
 Default behaviour: if no argument is passed to the program, the program will display the composite table, i.e. same effect as having used the --composite flag
 
-only one positional argument indicating a particular process id number (PID), if not specified the program will attempt to process all the currently running processes for the user executing the program
+Only one positional argument indicating a particular process id number (PID), if not specified the program will attempt to process all the currently running processes for the user executing the program
 
